@@ -2,31 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Dancing+Script:wght@400;500;600;700&family=Raleway:wght@300;400;500;600;700&family=Cormorant+Garamond:wght@300;400;500;600;700&family=Lato:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
 
 @layer base {
   html {
     scroll-behavior: smooth;
+    --font-source-sans: 'Source Sans Pro', Arial, sans-serif;
+    --font-lora: 'Lora', serif;
   }
-  
+
   body {
-    @apply font-montserrat text-charcoal-800 bg-cream-50;
+    font-family: var(--font-source-sans);
+    @apply text-charcoal-800 bg-cream-50;
   }
-  
+
   h1, h2, h3, h4, h5, h6 {
-    @apply font-playfair;
+    font-family: var(--font-lora);
+    font-weight: 700;
   }
-  
+
   .font-luxury {
-    font-family: var(--font-playfair);
-  }
-  
-  .font-script {
-    font-family: var(--font-great-vibes);
-  }
-  
-  .font-elegant {
-    font-family: var(--font-crimson-text);
+    font-family: var(--font-lora);
   }
 }
 

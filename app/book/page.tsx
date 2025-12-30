@@ -48,7 +48,7 @@ export default function BookPage() {
     {
       id: 'wedding-photo',
       name: 'Fotografi Martesore',
-      price: '€2,200',
+      price: '€000',
       description: 'Mbulim i plotë i ditës me fotografi artistike dhe spontane',
       features: ['Mbulim 8-12 orësh', '500+ foto të redaktuara', 'Galeri online', 'Të drejta printimi'],
       popular: true
@@ -56,29 +56,29 @@ export default function BookPage() {
     {
       id: 'wedding-video',
       name: 'Videografi Martesore',
-      price: '€2,600',
+      price: '€000',
       description: 'Filma martesore kinematografike me redaktim profesional',
       features: ['Video përmbledhëse', 'Ceremoni e plotë', 'Mbulim feste', 'Video me dron']
     },
     {
       id: 'combo',
       name: 'Paketa Foto + Video',
-      price: '€4,200',
+      price: '€000',
       description: 'Mbulim i plotë me fotografi dhe videografi',
       features: ['Gjithçka nga të dyja paketat', 'Mbulim i dyfishtë', 'Redaktim i koordinuar', '20% kursim'],
       popular: true
     },
     {
       id: 'engagement',
-      name: 'Seancë Fejesimi',
-      price: '€350',
+  name: 'Sesion Fejesë',
+      price: '€000',
       description: 'Fotografi romantike para martesës',
-      features: ['Seancë 2-orëshe', '50+ foto të redaktuara', 'Vende të shumta', 'Galeri online']
+  features: ['Sesion 2-orëshe', '50+ foto të redaktuara', 'Vende të shumta', 'Galeri online']
     },
     {
       id: 'elopement',
       name: 'Paketa Elopement',
-      price: '€1,000',
+      price: '€000',
       description: 'Mbulim intim për ceremoni private',
       features: ['Mbulim 4-6 orësh', '200+ foto të redaktuara', 'Vende të shumta', 'Parapamje e ditës']
     }
@@ -189,7 +189,7 @@ export default function BookPage() {
               transition={{ duration: 0.8 }}
               className="font-playfair text-4xl md:text-5xl font-bold text-charcoal-800 mb-6"
             >
-              Rezervoni <span className="text-gradient font-script text-5xl md:text-6xl">Seancën</span> Tuaj
+              Rezervoni <span className="text-gradient font-script text-5xl md:text-6xl">Sesionin</span> Tuaj
             </motion.h1>
             <p className="text-xl text-charcoal-600 max-w-3xl mx-auto font-montserrat">
               Le të krijojmë kujtime të bukura së bashku. Plotësoni formularin më poshtë dhe do t'ju përgjigjemi brenda 24 orëve.
@@ -260,7 +260,7 @@ export default function BookPage() {
                         <option value="wedding">Martesë</option>
                         <option value="engagement">Fejesim</option>
                         <option value="elopement">Elopement</option>
-                        <option value="portrait">Seancë Portretesh</option>
+                        <option value="portrait">Sesion Portretesh</option>
                         <option value="other">Tjetër</option>
                       </select>
                       {errors.eventType && <p className="text-red-500 text-sm mt-1">{errors.eventType}</p>}

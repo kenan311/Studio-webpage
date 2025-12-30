@@ -20,55 +20,55 @@ export default function Portfolio() {
     {
       id: 1,
       category: 'weddings',
-      title: 'Ana & Genti',
-      location: 'Durrës, Shqipëri',
+      title: 'xxx & xxx',
+      location: 'Vlorë, Shqipëri',
       image: 'https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
       description: 'Martesë romantike në bregdet me portrete në orën e artë'
     },
     {
       id: 2,
       category: 'engagements',
-      title: 'Elena & Arben',
+      title: 'xxx & xxx',
       location: 'Tirana, Shqipëri',
       image: 'https://images.unsplash.com/photo-1511285560929-80b456fea0bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-      description: 'Seancë fejesimi urbane me sfondin e qytetit'
+  description: 'Sesion fejesë urbane me sfondin e qytetit'
     },
     {
       id: 3,
       category: 'elopements',
-      title: 'Lirika & Dritan',
-      location: 'Theth, Shqipëri',
+      title: 'xxx & xxx',
+      location: 'Podujevë, Kosovë',
       image: 'https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
       description: 'Elopement intim në mal me pamje të bukura'
     },
     {
       id: 4,
       category: 'weddings',
-      title: 'Gresa & Endrit',
-      location: 'Berat, Shqipëri',
+      title: 'xxx & xxx',
+      location: 'Prizren, Kosovë',
       image: 'https://images.unsplash.com/photo-1519225421980-715cb0215aed?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
       description: 'Martesë destinacioni në qytetin e muzeve'
     },
     {
       id: 5,
       category: 'portraits',
-      title: 'Familja Krasniqi',
-      location: 'Kruja, Shqipëri',
+      title: 'Familja xxx',
+      location: 'Pejë, Kosovë',
       image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-      description: 'Seancë portretesh familjare me ngjyra vjeshtore'
+  description: 'Sesion portretesh familjare me ngjyra vjeshtore'
     },
     {
       id: 6,
       category: 'engagements',
-      title: 'Sofia & Aleks',
-      location: 'Saranda, Shqipëri',
+      title: 'xxx & xxx',
+      location: 'Prishtinë, Kosovë',
       image: 'https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-      description: 'Seancë fejesimi me pamje të mrekullueshme të perëndimit'
+  description: 'Sesion fejesë me pamje të mrekullueshme të perëndimit'
     },
     {
       id: 7,
       category: 'weddings',
-      title: 'Mira & Kristi',
+      title: 'xxx & xxx',
       location: 'Korça, Shqipëri',
       image: 'https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
       description: 'Martesë malore me elegancë rustike'
@@ -76,18 +76,18 @@ export default function Portfolio() {
     {
       id: 8,
       category: 'elopements',
-      title: 'Zana & Roni',
-      location: 'Valbona, Shqipëri',
+      title: 'xxx & xxx',
+      location: 'Lipjan, Kosovë',
       image: 'https://images.unsplash.com/photo-1511285560929-80b456fea0bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
       description: 'Elopement në natyrë nën yjet'
     },
     {
       id: 9,
       category: 'portraits',
-      title: 'Seancë Shtatzënie',
-      location: 'Vlora, Shqipëri',
+  title: 'Sesion Shtatzënie',
+      location: 'Shëngjin, Shqipërië',
       image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
-      description: 'Seancë shtatzënie në plazh me dritë të artë'
+  description: 'Sesion shtatzënie në plazh me dritë të artë'
     }
   ]
 

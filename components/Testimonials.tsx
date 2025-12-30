@@ -11,7 +11,7 @@ export default function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      name: 'Ana & Genti',
+      name: 'xxx & xxx',
       location: 'Durrës, Shqipëri',
       date: 'Shtator 2023',
       rating: 5,
@@ -20,36 +20,36 @@ export default function Testimonials() {
     },
     {
       id: 2,
-      name: 'Elena & Arben',
-      location: 'Tirana, Shqipëri',
-      date: 'Gusht 2023',
+      name: 'xxx & xxx',
+      location: 'Prishtinë, Kosovë',
+      date: 'Gusht 2025',
       rating: 5,
       text: 'Seanca e fejesimit ishte magjike! Ata gjetën vendet më të bukura dhe na bënë të ndiheshim kaq të relaksuar. Fotografitë finale tejkaluan të gjitha pritjet tona. Nuk mund të presim të punojmë me ta përsëri për martesën tonë vitin e ardhshëm.',
       image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80'
     },
     {
       id: 3,
-      name: 'Lirika & Dritan',
-      location: 'Theth, Shqipëri',
-      date: 'Korrik 2023',
+      name: 'xxx & xxx',
+      location: 'Prizren, Kosovë',
+      date: 'Korrik 2024',
       rating: 5,
       text: 'Fotografitë tona të elopement janë absolutisht të mrekullueshme! Ata kapën emocionin e papërpunuar dhe bukurinë e ceremonisë sonë intime në mënyrë të përsosur. Vëmendja ndaj detajeve dhe vizioni artistik është i pabesueshëm. Jemi kaq mirënjohës për këto kujtime.',
       image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80'
     },
     {
       id: 4,
-      name: 'Gresa & Endrit',
+      name: 'xxx & xxx',
       location: 'Berat, Shqipëri',
-      date: 'Qershor 2023',
+      date: 'Qershor 2025',
       rating: 5,
       text: 'Fotografi martesore destinacioni në formën e saj më të mirë! Ata udhëtuan në Berat me ne dhe kapën ditën tonë të veçantë me kaq art dhe pasion. Fotografitë tregojnë historinë tonë të dashurisë në mënyrë të bukur. Rekomandoj shumë!',
       image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80'
     },
     {
       id: 5,
-      name: 'Sofia & Aleks',
+      name: 'xxx & xxx',
       location: 'Saranda, Shqipëri',
-      date: 'Maj 2023',
+      date: 'Maj 2025',
       rating: 5,
       text: 'Seanca e fejesimit në Sarandë ishte si diçka nga një përrallë! Ata dinin të gjitha vendet më të mira dhe kohën për dritë të përsosur. Fotografitë janë absolutisht të mrekullueshme dhe marrim komplimente për to vazhdimisht.',
       image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80'

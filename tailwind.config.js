@@ -72,16 +72,11 @@ module.exports = {
         }
       },
       fontFamily: {
-        'serif': ['Cormorant Garamond', 'Playfair Display', 'serif'],
-        'sans': ['Montserrat', 'Inter', 'sans-serif'],
-        'script': ['Great Vibes', 'Dancing Script', 'cursive'],
-        'display': ['Playfair Display', 'serif'],
-        'elegant': ['Crimson Text', 'serif'],
-        'luxury': ['Playfair Display', 'serif'],
-        'playfair': ['var(--font-playfair)'],
-        'montserrat': ['var(--font-montserrat)'],
-        'crimson': ['var(--font-crimson-text)'],
-        'great-vibes': ['var(--font-great-vibes)'],
+        'serif': ['Lora', 'serif'],
+        'sans': ['Source Sans Pro', 'Arial', 'sans-serif'],
+        'lora': ['var(--font-lora)'],
+        'source-sans': ['var(--font-source-sans)'],
+        'luxury': ['var(--font-lora)'],
       },
       animation: {
         'fade-in': 'fadeIn 0.5s ease-in-out',

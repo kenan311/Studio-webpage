@@ -28,9 +28,9 @@ export default function Services() {
     },
     {
       icon: PhotoIcon,
-      title: 'Seanca Fejesimi',
+      title: 'Seanca Fejese',
       description: 'Fotografi romantike para martesës për të festuar dashurinë tuaj dhe për të krijuar karta të bukura të ftesës.',
-      features: ['Seancë 2-orëshe', '50+ foto të redaktuara', 'Vende të shumta', 'Galeri online'],
+  features: ['Sesion 2-orëshe', '50+ foto të redaktuara', 'Vende të shumta', 'Galeri online'],
       price: 'Duke filluar nga €350'
     },
     {
@@ -51,7 +51,7 @@ export default function Services() {
       icon: UserGroupIcon,
       title: 'Portrete Familjare',
       description: 'Seanca të bukura fotografike familjare për fejesime, shtatzëni, ose festime të rëndësishme.',
-      features: ['Seancë 1-2 orëshe', '30+ foto të redaktuara', 'Pozicione të shumta', 'Galeri online'],
+  features: ['Sesion 1-2 orëshe', '30+ foto të redaktuara', 'Pozicione të shumta', 'Galeri online'],
       price: 'Duke filluar nga €300'
     }
   ]

@@ -15,7 +15,7 @@ export default function About() {
     { icon: HeartIcon, number: '500+', label: 'Çifte të Shërbyera' },
     { icon: CameraIcon, number: '50K+', label: 'Foto të Kapura' },
     { icon: StarIcon, number: '5.0', label: 'Vlerësim Mesatar' },
-    { icon: TrophyIcon, number: '15+', label: 'Çmime të Fituara' }
+   // { icon: TrophyIcon, number: '15+', label: 'Çmime të Fituara' }//
   ]
 
   const values = [

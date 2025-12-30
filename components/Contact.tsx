@@ -107,19 +107,19 @@ export default function Contact() {
     {
       icon: EnvelopeIcon,
       title: 'Na Shkruani',
-      details: 'hello@studiomartesore.com',
+      details: 'kadriuproduction@gmail.com',
       description: 'Na dërgoni email në çdo kohë'
     },
     {
       icon: PhoneIcon,
       title: 'Na Telefononi',
-      details: '+355 69 123 4567',
+      details: '+338 xxx xxx',
       description: 'Hënë-Premte 9:00-18:00'
     },
     {
       icon: MapPinIcon,
       title: 'Na Vizitoni',
-      details: 'Rruga Dëshmorët e Kombit, Tirana, Shqipëri',
+      details: 'Rruga Dëshmorët e Kombit, Podujevë, Kosovë',
       description: 'Vetëm me takim'
     },
     {
@@ -243,9 +243,9 @@ export default function Contact() {
                   >
                     <option value="">Zgjidhni llojin e eventit</option>
                     <option value="wedding">Martesë</option>
-                    <option value="engagement">Fejesim</option>
+                    <option value="engagement">Fejesë</option>
                     <option value="elopement">Elopement</option>
-                    <option value="portrait">Seancë Portretesh</option>
+                    <option value="portrait">Sesion Portretesh</option>
                     <option value="other">Tjetër</option>
                   </select>
                 </div>

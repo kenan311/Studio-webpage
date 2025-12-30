@@ -35,17 +35,17 @@ export default function Hero() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
-            className="font-playfair text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-charcoal-800 mb-6 text-shadow"
+            className="font-lora text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-charcoal-800 mb-6 text-shadow"
           >
             Kapim Momentet Tuaja
-            <span className="block text-gradient font-script text-5xl sm:text-6xl md:text-7xl lg:text-8xl">Të Përjetshme</span>
+            <span className="block text-gradient font-lora text-5xl sm:text-6xl md:text-7xl lg:text-8xl">Të Përjetshme</span>
           </motion.h1>
           
           <motion.p
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.4 }}
-            className="text-lg sm:text-xl md:text-2xl text-charcoal-600 mb-8 max-w-2xl mx-auto leading-relaxed font-montserrat"
+            className="text-lg sm:text-xl md:text-2xl text-charcoal-600 mb-8 max-w-2xl mx-auto leading-relaxed font-source-sans"
           >
             Shërbime profesionale fotografike dhe videografike që e transformojnë ditën tuaj të veçantë në kujtime të përjetshme
           </motion.p>
@@ -60,7 +60,7 @@ export default function Hero() {
               href="/book"
               className="btn-primary text-lg px-6 sm:px-8 py-3 sm:py-4"
             >
-              Rezervo Seancën
+              Rezervo Sesionin
             </Link>
             <Link
               href="#portfolio"

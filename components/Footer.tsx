@@ -16,7 +16,7 @@ export default function Footer() {
     services: [
       { name: 'Fotografi Martesore', href: '#services' },
       { name: 'Videografi Martesore', href: '#services' },
-      { name: 'Seanca Fejesimi', href: '#services' },
+      { name: 'Seanca Fejese', href: '#services' },
       { name: 'Paketa Elopement', href: '#services' },
       { name: 'Portrete Familjare', href: '#services' }
     ],
